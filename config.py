@@ -42,6 +42,8 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
     
     # database config
+
+  #  email labilo3913@noomlocs.com   passward $hivam@35416
     DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
     DB_URL = os.environ.get("DB_URL","")
  
